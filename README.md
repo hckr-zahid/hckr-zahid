@@ -15,8 +15,8 @@
 </div>
 
 ---
+<h1 align="center">🧭 SECURITY COMMAND CENTER</h1>
 
-## 🧭 SECURITY COMMAND CENTER
 
 <table>
 <tr>
@@ -64,32 +64,74 @@ My focus is not only learning security concepts, but **building working environm
 
 # 👨‍💻 ABOUT ME
 
-I am a **Cybersecurity Analyst** focused on defensive security, threat detection, security monitoring, digital forensics, network security and security engineering.
+Cybersecurity Analyst with a B.Sc. in Computer Science and a specialized focus on defensive security, threat detection, security engineering, and digital forensics. Comfortable across the complete SOC lifecycle ranging from SIEM monitoring and detection rule engineering to memory/disk forensics and NIST-aligned incident reporting.
 
-My cybersecurity work combines **hands-on infrastructure labs, Windows security administration, network environments, threat detection experiments and security-tool development**.
-
-I am particularly interested in understanding how threats operate, identifying malicious behavior, investigating security events and developing practical defensive solutions.
+Hands-on expertise bridges practical infrastructure labs, Windows security administration, network defense, and custom tool development. Notably, built CyberGun, a modular malware detection platform combining static signature analysis with machine learning-based behavioral detection, alongside Python-driven automation to accelerate triage workflows. Backed by solid foundational training and eight certifications spanning (ISC)2, Google, IBM, Fortinet, and Cisco/NAVTTC, with a strong drive to understand attacker tactics, uncover malicious behaviors, and engineer robust defensive solutions within remote-first teams.
 
 ---
 
 # 🛡️ SECURITY SPECIALIZATION
 
-<table>
-<tr>
-<td align="center">🛡️<br><b>SOC / BLUE TEAM</b><br><sub>Monitoring & Defense</sub></td>
-<td align="center">🔎<br><b>THREAT DETECTION</b><br><sub>Detection & Analysis</sub></td>
-<td align="center">🧪<br><b>DFIR</b><br><sub>Investigation & Response</sub></td>
-<td align="center">🌐<br><b>NETWORK SECURITY</b><br><sub>Traffic & Infrastructure</sub></td>
-</tr>
-<tr>
-<td align="center">🖥️<br><b>WINDOWS SECURITY</b><br><sub>Server & Clients</sub></td>
-<td align="center">🏢<br><b>ACTIVE DIRECTORY</b><br><sub>Identity & Access</sub></td>
-<td align="center">🦠<br><b>MALWARE ANALYSIS</b><br><sub>Suspicious Files</sub></td>
-<td align="center">⚙️<br><b>AUTOMATION</b><br><sub>Security Engineering</sub></td>
-</tr>
+
+
+<table width="100%">
+  <tr>
+    <td align="center" width="20%">
+      🛡️<br>
+      <b>SOC / BLUE TEAM</b><br>
+      <sub>Monitoring &amp; Defense</sub>
+    </td>
+    <td align="center" width="20%">
+      🔎<br>
+      <b>THREAT DETECTION</b><br>
+      <sub>Detection &amp; Analysis</sub>
+    </td>
+    <td align="center" width="20%">
+      🧪<br>
+      <b>DFIR</b><br>
+      <sub>Investigation &amp; Response</sub>
+    </td>
+    <td align="center" width="20%">
+      🌐<br>
+      <b>NETWORK SECURITY</b><br>
+      <sub>Traffic &amp; Infrastructure</sub>
+    </td>
+    <td align="center" width="20%">
+      ⚔️<br>
+      <b>OFFENSIVE SECURITY</b><br>
+      <sub>Penetration Testing &amp; Exploitation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🖥️<br>
+      <b>WINDOWS SECURITY</b><br>
+      <sub>Server &amp; Clients</sub>
+    </td>
+    <td align="center">
+      🏢<br>
+      <b>ACTIVE DIRECTORY</b><br>
+      <sub>Identity &amp; Access</sub>
+    </td>
+    <td align="center">
+      🦠<br>
+      <b>MALWARE ANALYSIS</b><br>
+      <sub>Suspicious Files</sub>
+    </td>
+    <td align="center">
+      ⚙️<br>
+      <b>AUTOMATION</b><br>
+      <sub>Security Engineering</sub>
+    </td>
+    <td align="center">
+      🔬<br>
+      <b>VULNERABILITY ASSESSMENT</b><br>
+      <sub>Scanning &amp; Risk Analysis</sub>
+    </td>
+  </tr>
 </table>
 
----
+
 
 # 🚨 FLAGSHIP SECURITY PROJECT
 
