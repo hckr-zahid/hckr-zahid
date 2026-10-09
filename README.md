@@ -41,17 +41,17 @@ Build, test and document practical cybersecurity capabilities across:
 ### Security Mindset
 
 ```text
-UNDERSTAND
-     ↓
-IDENTIFY
-     ↓
-DETECT
-     ↓
-INVESTIGATE
-     ↓
-RESPOND
-     ↓
-IMPROVE
+                      UNDERSTAND
+                           ↓
+                      IDENTIFY
+                           ↓
+                      DETECT
+                           ↓
+                      INVESTIGATE
+                           ↓
+                      RESPOND
+                           ↓
+                      IMPROVE
 ```
 
 My focus is not only learning security concepts, but **building working environments and security tools to understand them in practice.**
