@@ -364,51 +364,51 @@ My security lab is designed as a practical environment for understanding enterpr
 #  SECURITY LAB ARCHITECTURE
 
 ```text
-                         INTERNET
-                            │
-                            │
-                     ┌──────▼──────┐
-                     │   GATEWAY   │
-                     │   / NAT     │
-                     └──────┬──────┘
-                            │
-                    INTERNAL SECURITY LAN
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-              ▼             ▼             ▼
-       ┌────────────┐ ┌────────────┐ ┌────────────┐
-       │   DC01     │ │ Windows 10 │ │ Windows 11 │
-       │ Windows    │ │   Client   │ │   Client   │
-       │ Server 2019│ │            │ │            │
-       │ AD / DNS   │ │            │ │            │
-       │ DHCP       │ │            │ │            │
-       └─────┬──────┘ └────────────┘ └────────────┘
-             │
-             │
-       ┌─────▼──────┐
-       │   Domain   │
-       │  Services  │
-       └─────┬──────┘
-             │
-      ┌──────┴───────┐
-      │              │
-      ▼              ▼
-  Identity       Policies
-  Management     & Security
-      │              │
-      └──────┬───────┘
-             │
-             ▼
-      SECURITY MONITORING
-             │
-      ┌──────┴───────┐
-      ▼              ▼
- Threat Detection   DFIR
-      │              │
-      └──────┬───────┘
-             ▼
-      DEFENSIVE RESPONSE
+                                               INTERNET
+                                                  │
+                                                  │
+                                           ┌──────▼──────┐
+                                           │   GATEWAY   │
+                                           │   / NAT     │
+                                           └──────┬──────┘
+                                                  │
+                                          INTERNAL SECURITY LAN
+                                                  │
+                                    ┌─────────────┼─────────────┐
+                                    │             │             │
+                                    ▼             ▼             ▼
+                             ┌────────────┐ ┌────────────┐ ┌────────────┐
+                             │   DC01     │ │ Windows 10 │ │ Windows 11 │
+                             │ Windows    │ │   Client   │ │   Client   │
+                             │ Server 2019│ │            │ │            │
+                             │ AD / DNS   │ │            │ │            │
+                             │ DHCP       │ │            │ │            │
+                             └─────┬──────┘ └────────────┘ └────────────┘
+                                   │
+                                   │
+                             ┌─────▼──────┐
+                             │   Domain   │
+                             │  Services  │
+                             └─────┬──────┘
+                                   │
+                            ┌──────┴───────┐
+                            │              │
+                            ▼              ▼
+                        Identity       Policies
+                        Management     & Security
+                            │              │
+                            └──────┬───────┘
+                                   │
+                                   ▼
+                            SECURITY MONITORING
+                                   │
+                            ┌──────┴───────┐
+                            ▼              ▼
+                       Threat Detection   DFIR
+                            │              │
+                            └──────┬───────┘
+                                   ▼
+                            DEFENSIVE RESPONSE
 ```
 
 ---
