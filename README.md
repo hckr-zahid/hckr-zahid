@@ -420,19 +420,19 @@ My Windows security environment includes practical Active Directory administrati
 ### Domain Environment
 
 ```text
-ZROOTS.LOCAL
-│
-├── User Accounts
-│   └── Staff
-│       ├── Staff Users
-│       ├── Standard Users
-│       └── Test Accounts
-│
-└── Groups
-    └── Security Groups
-        ├── Staff
-        ├── IT-HelpDesk
-        └── Management
+                        ZROOTS.LOCAL
+                        │
+                        ├── User Accounts
+                        │   └── Staff
+                        │       ├── Staff Users
+                        │       ├── Standard Users
+                        │       └── Test Accounts
+                        │
+                        └── Groups
+                            └── Security Groups
+                                ├── Staff
+                                ├── IT-HelpDesk
+                                └── Management
 ```
 
 ### Core Areas
@@ -457,17 +457,17 @@ The networking side of the lab focuses on understanding how systems communicate 
 ### Areas of Practice
 
 ```text
-NETWORK
-   │
-   ├── TCP/IP
-   ├── DNS
-   ├── DHCP
-   ├── Routing
-   ├── NAT
-   ├── LAN
-   ├── Traffic Monitoring
-   ├── Packet Analysis
-   └── Network Security
+                      NETWORK
+                         │
+                         ├── TCP/IP
+                         ├── DNS
+                         ├── DHCP
+                         ├── Routing
+                         ├── NAT
+                         ├── LAN
+                         ├── Traffic Monitoring
+                         ├── Packet Analysis
+                         └── Network Security
 ```
 
 ### Security Analysis
@@ -487,28 +487,28 @@ NETWORK
 My security work also focuses on the investigation side of cybersecurity.
 
 ```text
-SECURITY EVENT
-      │
-      ▼
-COLLECT EVIDENCE
-      │
-      ▼
-PRESERVE DATA
-      │
-      ▼
-ANALYZE INDICATORS
-      │
-      ▼
-IDENTIFY BEHAVIOR
-      │
-      ▼
-DETERMINE IMPACT
-      │
-      ▼
-RESPOND
-      │
-      ▼
-DOCUMENT & IMPROVE
+                                  SECURITY EVENT
+                                        │
+                                        ▼
+                                  COLLECT EVIDENCE
+                                        │
+                                        ▼
+                                  PRESERVE DATA
+                                        │
+                                        ▼
+                                  ANALYZE INDICATORS
+                                        │
+                                        ▼
+                                  IDENTIFY BEHAVIOR
+                                        │
+                                        ▼
+                                  DETERMINE IMPACT
+                                        │
+                                        ▼
+                                  RESPOND
+                                        │
+                                        ▼
+                                  DOCUMENT & IMPROVE
 ```
 
 ### Investigation Areas
@@ -612,18 +612,18 @@ Documenting practical projects, infrastructure labs, technical work and security
 #  CONTINUOUS LEARNING
 
 ```text
-Cybersecurity
-     │
-     ├── SOC Operations
-     ├── Blue Team
-     ├── Threat Detection
-     ├── Digital Forensics
-     ├── Incident Response
-     ├── Active Directory Security
-     ├── Network Security
-     ├── Malware Analysis
-     ├── Security Automation
-     └── Security Engineering
+                        Cybersecurity
+                             │
+                             ├── SOC Operations
+                             ├── Blue Team
+                             ├── Threat Detection
+                             ├── Digital Forensics
+                             ├── Incident Response
+                             ├── Active Directory Security
+                             ├── Network Security
+                             ├── Malware Analysis
+                             ├── Security Automation
+                             └── Security Engineering
 ```
 
 ---
