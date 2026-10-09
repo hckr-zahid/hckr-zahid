@@ -15,14 +15,14 @@
 </div>
 
 ---
-<h1 align="center">🧭 SECURITY COMMAND CENTER</h1>
+<h1 align="center">SECURITY COMMAND CENTER</h1>
 
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Mission
+### Mission
 
 Build, test and document practical cybersecurity capabilities across:
 
@@ -38,7 +38,7 @@ Build, test and document practical cybersecurity capabilities across:
 </td>
 <td width="50%">
 
-### 🔐 Security Mindset
+### Security Mindset
 
 ```text
 UNDERSTAND
@@ -62,7 +62,7 @@ My focus is not only learning security concepts, but **building working environm
 
 ---
 
-# 👨‍💻 ABOUT ME
+# ABOUT ME
 
 Cybersecurity Analyst with a B.Sc. in Computer Science and a specialized focus on defensive security, threat detection, security engineering, and digital forensics. Comfortable across the complete SOC lifecycle ranging from SIEM monitoring and detection rule engineering to memory/disk forensics and NIST-aligned incident reporting.
 
@@ -70,7 +70,7 @@ Hands-on expertise bridges practical infrastructure labs, Windows security admin
 
 ---
 
-# 🛡️ SECURITY SPECIALIZATION
+# SECURITY SPECIALIZATION
 
 
 
@@ -133,11 +133,11 @@ Hands-on expertise bridges practical infrastructure labs, Windows security admin
 
 
 
-# 🚨 FLAGSHIP SECURITY PROJECT
+# FLAGSHIP SECURITY PROJECT
 
 <div align="center">
 
-# 🛡️ CyberGun
+# CyberGun
 
 ### Advanced Real-Time Threat Mitigation Suite
 
@@ -218,7 +218,7 @@ CyberGun is my primary security-engineering project focused on combining multipl
 
 <div align="center">
 
-## ⚡ Defensive Response Pipeline
+## Defensive Response Pipeline
 
 <table>
   <tr>
@@ -307,7 +307,7 @@ CyberGun is my primary security-engineering project focused on combining multipl
 
 
 
-### 🌐 Threat Intelligence
+### Threat Intelligence
 
 CyberGun also incorporates threat-intelligence resources and security databases to support detection and investigation.
 
@@ -316,11 +316,11 @@ CyberGun also incorporates threat-intelligence resources and security databases 
 
 ---
 
-# 🧪 SECURITY LAB
+# SECURITY LAB
 
 My security lab is designed as a practical environment for understanding enterprise Windows infrastructure, identity, networking and defensive security.
 
-### 🖥️ Windows Infrastructure
+###  Windows Infrastructure
 
 - Windows Server 2019
 - Active Directory Domain Services
@@ -336,7 +336,7 @@ My security lab is designed as a practical environment for understanding enterpr
 - Share Permissions
 - Windows Client Administration
 
-### 🌐 Network Infrastructure
+### Network Infrastructure
 
 - VMware Virtual Networking
 - LAN Segmentation
@@ -348,7 +348,7 @@ My security lab is designed as a practical environment for understanding enterpr
 - Traffic Analysis
 - Network Security
 
-### 🔐 Defensive Security
+### Defensive Security
 
 - Security Monitoring
 - Threat Detection
@@ -361,7 +361,7 @@ My security lab is designed as a practical environment for understanding enterpr
 
 ---
 
-# 🏗️ SECURITY LAB ARCHITECTURE
+#  SECURITY LAB ARCHITECTURE
 
 ```text
                          INTERNET
@@ -413,7 +413,7 @@ My security lab is designed as a practical environment for understanding enterpr
 
 ---
 
-# 🏢 ACTIVE DIRECTORY SECURITY LAB
+#  ACTIVE DIRECTORY SECURITY LAB
 
 My Windows security environment includes practical Active Directory administration and security work.
 
@@ -450,7 +450,7 @@ ZROOTS.LOCAL
 
 ---
 
-# 🌐 NETWORK SECURITY LAB
+#  NETWORK SECURITY LAB
 
 The networking side of the lab focuses on understanding how systems communicate and how defensive monitoring can be applied to network infrastructure.
 
@@ -482,7 +482,7 @@ NETWORK
 
 ---
 
-# 🔎 DFIR & THREAT INVESTIGATION
+#  DFIR & THREAT INVESTIGATION
 
 My security work also focuses on the investigation side of cybersecurity.
 
@@ -525,7 +525,7 @@ DOCUMENT & IMPROVE
 
 ---
 
-# 🧰 SECURITY TECHNOLOGY STACK
+#  SECURITY TECHNOLOGY STACK
 
 ### 🖥️ Operating Systems
 
@@ -536,7 +536,7 @@ DOCUMENT & IMPROVE
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 </p>
 
-### 🔐 Security
+###  Security
 
 <p>
 <img src="https://img.shields.io/badge/YARA-7B68EE?style=for-the-badge">
@@ -547,7 +547,7 @@ DOCUMENT & IMPROVE
 <img src="https://img.shields.io/badge/Malware%20Analysis-990000?style=for-the-badge">
 </p>
 
-### 🏢 Infrastructure
+###  Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
@@ -568,7 +568,7 @@ DOCUMENT & IMPROVE
 
 ---
 
-# 🧠 SECURITY ENGINEERING AREAS
+#  SECURITY ENGINEERING AREAS
 
 | Domain | Practical Focus |
 |---|---|
@@ -585,31 +585,31 @@ DOCUMENT & IMPROVE
 
 ---
 
-# 🚀 CURRENTLY BUILDING
+#  CURRENTLY BUILDING
 
-### 🛡️ CyberGun
+###  CyberGun
 
 Continuous development of an integrated threat detection and mitigation platform.
 
-### 🏢 Windows Security Lab
+###  Windows Security Lab
 
 Expanding practical Windows Server and Active Directory security capabilities.
 
-### 🌐 Network Security Environment
+### Network Security Environment
 
 Building and testing isolated virtual networking environments for security monitoring and analysis.
 
-### 🔎 DFIR Workflows
+###  DFIR Workflows
 
 Developing practical investigation and defensive-response workflows.
 
-### 💻 Cybersecurity Portfolio
+###  Cybersecurity Portfolio
 
 Documenting practical projects, infrastructure labs, technical work and security development.
 
 ---
 
-# 📚 CONTINUOUS LEARNING
+#  CONTINUOUS LEARNING
 
 ```text
 Cybersecurity
@@ -628,7 +628,7 @@ Cybersecurity
 
 ---
 
-# 📊 GITHUB ACTIVITY
+#  GITHUB ACTIVITY
 
 <div align="center">
 
@@ -640,7 +640,7 @@ Cybersecurity
 
 ---
 
-# ⭐ FEATURED WORK
+#  FEATURED WORK
 
 <div align="center">
 
@@ -656,7 +656,7 @@ Cybersecurity
 
 ---
 
-# 🌐 PORTFOLIO
+#  PORTFOLIO
 
 My cybersecurity portfolio documents my practical work, projects, labs and technical development.
 
@@ -670,7 +670,7 @@ My cybersecurity portfolio documents my practical work, projects, labs and techn
 
 ---
 
-# 🧭 SECURITY PHILOSOPHY
+#  SECURITY PHILOSOPHY
 
 <div align="center">
 
@@ -688,7 +688,7 @@ My approach is to **build the environment, configure the technology, generate re
 
 ---
 
-# 🤝 CONNECT WITH ME
+#  CONNECT WITH ME
 
 <div align="center">
 
@@ -714,7 +714,7 @@ My approach is to **build the environment, configure the technology, generate re
 
 <div align="center">
 
-## 🛡️ SECURITY • DETECTION • INVESTIGATION • DEFENSE
+##  SECURITY • DETECTION • INVESTIGATION • DEFENSE
 
 ### Built with curiosity. Tested in the lab. Focused on defense.
 
