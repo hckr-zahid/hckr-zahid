@@ -149,49 +149,163 @@ Hands-on expertise bridges practical infrastructure labs, Windows security admin
 
 CyberGun is my primary security-engineering project focused on combining multiple defensive security capabilities into a unified platform.
 
-### 🔬 Detection Engine
 
-| Capability | Purpose |
-|---|---|
-| 🔐 Hash Analysis | File identification and comparison |
-| 🧬 YARA Scanning | Rule-based malware detection |
-| 🧱 Byte Signatures | Binary pattern detection |
-| 🔤 String Analysis | Suspicious string identification |
-| 🤖 Machine Learning | ML-assisted static detection |
-| 🧠 Behavioral Analysis | Suspicious behavior monitoring |
-| 🌐 Network Analysis | Network threat investigation |
-| 🦠 Malware Analysis | Suspicious file analysis |
-| 🚨 Ransomware Detection | Detection of ransomware-related behavior |
+<div align="center">
 
-### ⚡ Defensive Response
+## 🔬 Detection Engine
 
-```text
-THREAT DETECTED
-       │
-       ▼
-┌─────────────────────┐
-│ Security Event      │
-│ Collection          │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│ Multi-Layer Analysis│
-│ Hash / YARA / ML    │
-│ Behavior / Network  │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│ Threat Assessment   │
-└──────────┬──────────┘
-           ▼
-     ┌─────┴─────┐
-     ▼           ▼
-  Monitor     Respond
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
- Process Control      Quarantine
-```
+<p>
+  <sub>Multi-layered malware detection, threat analysis, and security intelligence</sub>
+</p>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Capability</th>
+      <th align="center">Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🔐 <b>Hash Analysis</b></td>
+      <td align="center">File identification and hash comparison</td>
+    </tr>
+    <tr>
+      <td align="center">🧬 <b>YARA Scanning</b></td>
+      <td align="center">Rule-based malware detection</td>
+    </tr>
+    <tr>
+      <td align="center">🧱 <b>Byte Signatures</b></td>
+      <td align="center">Binary pattern and signature detection</td>
+    </tr>
+    <tr>
+      <td align="center">🔤 <b>String Analysis</b></td>
+      <td align="center">Suspicious strings and embedded indicators</td>
+    </tr>
+    <tr>
+      <td align="center">🤖 <b>Machine Learning</b></td>
+      <td align="center">ML-assisted static malware classification</td>
+    </tr>
+    <tr>
+      <td align="center">🧠 <b>Behavioral Analysis</b></td>
+      <td align="center">Suspicious activity and behavior assessment</td>
+    </tr>
+    <tr>
+      <td align="center">🌐 <b>Network Analysis</b></td>
+      <td align="center">Network indicators and threat investigation</td>
+    </tr>
+    <tr>
+      <td align="center">🦠 <b>Malware Analysis</b></td>
+      <td align="center">Suspicious file inspection and analysis</td>
+    </tr>
+    <tr>
+      <td align="center">🚨 <b>Ransomware Detection</b></td>
+      <td align="center">Identification of ransomware-related indicators and behavior</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<p>
+  <sub><b>STATIC ANALYSIS</b> · <b>BEHAVIORAL ANALYSIS</b> · <b>THREAT DETECTION</b></sub>
+</p>
+
+</div>
+
+
+
+
+<div align="center">
+
+## ⚡ Defensive Response Pipeline
+
+<table>
+  <tr>
+    <td align="center">
+      🛡️ <b>01 · THREAT DETECTED</b><br>
+      <sub>Security Alert Triggered</sub>
+    </td>
+  </tr>
+  <tr><td align="center">⬇️</td></tr>
+  <tr>
+    <td align="center">
+      📥 <b>02 · EVENT COLLECTION</b><br>
+      <sub>Logs · Events · Telemetry</sub>
+    </td>
+  </tr>
+  <tr><td align="center">⬇️</td></tr>
+  <tr>
+    <td align="center">
+      🔬 <b>03 · MULTI-LAYER ANALYSIS</b><br>
+      <sub>Hash · YARA · ML · Behavior · Network</sub>
+    </td>
+  </tr>
+  <tr><td align="center">⬇️</td></tr>
+  <tr>
+    <td align="center">
+      🎯 <b>04 · THREAT ASSESSMENT</b><br>
+      <sub>Severity · Risk · Scope · Impact</sub>
+    </td>
+  </tr>
+  <tr><td align="center">⬇️</td></tr>
+  <tr>
+    <td align="center">
+      ⚖️ <b>05 · RESPONSE DECISION</b>
+    </td>
+  </tr>
+  <tr><td align="center">↙️　　↘️</td></tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td align="center" width="50%">
+            👁️ <b>MONITOR</b><br>
+            <sub>Continuous Observation</sub>
+          </td>
+          <td align="center" width="50%">
+            🚨 <b>RESPOND</b><br>
+            <sub>Active Containment</sub>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">⬇️</td>
+          <td align="center">⬇️</td>
+        </tr>
+        <tr>
+          <td align="center">
+            📊 <b>Event Correlation</b><br>
+            <sub>Track New Indicators</sub>
+          </td>
+          <td align="center">
+            🧱 <b>Process Control</b><br>
+            <sub>Stop Malicious Activity</sub>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td align="center">⬇️</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td align="center">
+            🔒 <b>Quarantine</b><br>
+            <sub>Isolate Files &amp; Endpoints</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<sub><b>DETECT → COLLECT → ANALYZE → ASSESS → RESPOND → VERIFY</b></sub>
+
+</div>
+
+
+
 
 ### 🌐 Threat Intelligence
 
