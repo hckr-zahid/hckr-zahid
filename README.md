@@ -77,54 +77,54 @@ Hands-on expertise bridges practical infrastructure labs, Windows security admin
 <table width="100%">
   <tr>
     <td align="center" width="20%">
-      🛡️<br>
+      <br>
       <b>SOC / BLUE TEAM</b><br>
       <sub>Monitoring &amp; Defense</sub>
     </td>
     <td align="center" width="20%">
-      🔎<br>
+      <br>
       <b>THREAT DETECTION</b><br>
       <sub>Detection &amp; Analysis</sub>
     </td>
     <td align="center" width="20%">
-      🧪<br>
+      <br>
       <b>DFIR</b><br>
       <sub>Investigation &amp; Response</sub>
     </td>
     <td align="center" width="20%">
-      🌐<br>
+      <br>
       <b>NETWORK SECURITY</b><br>
       <sub>Traffic &amp; Infrastructure</sub>
     </td>
     <td align="center" width="20%">
-      ⚔️<br>
+      <br>
       <b>OFFENSIVE SECURITY</b><br>
       <sub>Penetration Testing &amp; Exploitation</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      🖥️<br>
+      <br>
       <b>WINDOWS SECURITY</b><br>
       <sub>Server &amp; Clients</sub>
     </td>
     <td align="center">
-      🏢<br>
+      <br>
       <b>ACTIVE DIRECTORY</b><br>
       <sub>Identity &amp; Access</sub>
     </td>
     <td align="center">
-      🦠<br>
+      <br>
       <b>MALWARE ANALYSIS</b><br>
       <sub>Suspicious Files</sub>
     </td>
     <td align="center">
-      ⚙️<br>
+      <br>
       <b>AUTOMATION</b><br>
       <sub>Security Engineering</sub>
     </td>
     <td align="center">
-      🔬<br>
+      <br>
       <b>VULNERABILITY ASSESSMENT</b><br>
       <sub>Scanning &amp; Risk Analysis</sub>
     </td>
@@ -152,7 +152,7 @@ CyberGun is my primary security-engineering project focused on combining multipl
 
 <div align="center">
 
-## 🔬 Detection Engine
+##  Detection Engine
 
 <p>
   <sub>Multi-layered malware detection, threat analysis, and security intelligence</sub>
@@ -167,39 +167,39 @@ CyberGun is my primary security-engineering project focused on combining multipl
   </thead>
   <tbody>
     <tr>
-      <td align="center">🔐 <b>Hash Analysis</b></td>
+      <td align="center"> <b>Hash Analysis</b></td>
       <td align="center">File identification and hash comparison</td>
     </tr>
     <tr>
-      <td align="center">🧬 <b>YARA Scanning</b></td>
+      <td align="center"> <b>YARA Scanning</b></td>
       <td align="center">Rule-based malware detection</td>
     </tr>
     <tr>
-      <td align="center">🧱 <b>Byte Signatures</b></td>
+      <td align="center"> <b>Byte Signatures</b></td>
       <td align="center">Binary pattern and signature detection</td>
     </tr>
     <tr>
-      <td align="center">🔤 <b>String Analysis</b></td>
+      <td align="center"> <b>String Analysis</b></td>
       <td align="center">Suspicious strings and embedded indicators</td>
     </tr>
     <tr>
-      <td align="center">🤖 <b>Machine Learning</b></td>
+      <td align="center"> <b>Machine Learning</b></td>
       <td align="center">ML-assisted static malware classification</td>
     </tr>
     <tr>
-      <td align="center">🧠 <b>Behavioral Analysis</b></td>
+      <td align="center"> <b>Behavioral Analysis</b></td>
       <td align="center">Suspicious activity and behavior assessment</td>
     </tr>
     <tr>
-      <td align="center">🌐 <b>Network Analysis</b></td>
+      <td align="center"> <b>Network Analysis</b></td>
       <td align="center">Network indicators and threat investigation</td>
     </tr>
     <tr>
-      <td align="center">🦠 <b>Malware Analysis</b></td>
+      <td align="center"> <b>Malware Analysis</b></td>
       <td align="center">Suspicious file inspection and analysis</td>
     </tr>
     <tr>
-      <td align="center">🚨 <b>Ransomware Detection</b></td>
+      <td align="center"> <b>Ransomware Detection</b></td>
       <td align="center">Identification of ransomware-related indicators and behavior</td>
     </tr>
   </tbody>
@@ -223,35 +223,35 @@ CyberGun is my primary security-engineering project focused on combining multipl
 <table>
   <tr>
     <td align="center">
-      🛡️ <b>01 · THREAT DETECTED</b><br>
+       <b>01 · THREAT DETECTED</b><br>
       <sub>Security Alert Triggered</sub>
     </td>
   </tr>
   <tr><td align="center">⬇️</td></tr>
   <tr>
     <td align="center">
-      📥 <b>02 · EVENT COLLECTION</b><br>
+       <b>02 · EVENT COLLECTION</b><br>
       <sub>Logs · Events · Telemetry</sub>
     </td>
   </tr>
   <tr><td align="center">⬇️</td></tr>
   <tr>
     <td align="center">
-      🔬 <b>03 · MULTI-LAYER ANALYSIS</b><br>
+       <b>03 · MULTI-LAYER ANALYSIS</b><br>
       <sub>Hash · YARA · ML · Behavior · Network</sub>
     </td>
   </tr>
   <tr><td align="center">⬇️</td></tr>
   <tr>
     <td align="center">
-      🎯 <b>04 · THREAT ASSESSMENT</b><br>
+       <b>04 · THREAT ASSESSMENT</b><br>
       <sub>Severity · Risk · Scope · Impact</sub>
     </td>
   </tr>
   <tr><td align="center">⬇️</td></tr>
   <tr>
     <td align="center">
-      ⚖️ <b>05 · RESPONSE DECISION</b>
+       <b>05 · RESPONSE DECISION</b>
     </td>
   </tr>
   <tr><td align="center">↙️　　↘️</td></tr>
@@ -260,11 +260,11 @@ CyberGun is my primary security-engineering project focused on combining multipl
       <table>
         <tr>
           <td align="center" width="50%">
-            👁️ <b>MONITOR</b><br>
+             <b>MONITOR</b><br>
             <sub>Continuous Observation</sub>
           </td>
           <td align="center" width="50%">
-            🚨 <b>RESPOND</b><br>
+             <b>RESPOND</b><br>
             <sub>Active Containment</sub>
           </td>
         </tr>
@@ -274,11 +274,11 @@ CyberGun is my primary security-engineering project focused on combining multipl
         </tr>
         <tr>
           <td align="center">
-            📊 <b>Event Correlation</b><br>
+             <b>Event Correlation</b><br>
             <sub>Track New Indicators</sub>
           </td>
           <td align="center">
-            🧱 <b>Process Control</b><br>
+             <b>Process Control</b><br>
             <sub>Stop Malicious Activity</sub>
           </td>
         </tr>
@@ -289,7 +289,7 @@ CyberGun is my primary security-engineering project focused on combining multipl
         <tr>
           <td></td>
           <td align="center">
-            🔒 <b>Quarantine</b><br>
+             <b>Quarantine</b><br>
             <sub>Isolate Files &amp; Endpoints</sub>
           </td>
         </tr>
@@ -527,7 +527,7 @@ My security work also focuses on the investigation side of cybersecurity.
 
 #  SECURITY TECHNOLOGY STACK
 
-### 🖥️ Operating Systems
+### Operating Systems
 
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -572,16 +572,16 @@ My security work also focuses on the investigation side of cybersecurity.
 
 | Domain | Practical Focus |
 |---|---|
-| 🛡️ SOC | Monitoring, analysis and defensive operations |
-| 🔎 Detection | Indicators, behavior and suspicious activity |
-| 🧪 DFIR | Investigation and incident response |
-| 🖥️ Windows | Server and endpoint security |
-| 🏢 Active Directory | Identity, access and domain security |
-| 🌐 Networking | Infrastructure, traffic and network analysis |
-| 🦠 Malware | Static and behavioral analysis |
-| 🤖 ML Security | Machine-learning-assisted detection |
-| ⚙️ Automation | Security workflows and response |
-| 🔐 Engineering | Building practical defensive systems |
+|  SOC | Monitoring, analysis and defensive operations |
+|  Detection | Indicators, behavior and suspicious activity |
+|  DFIR | Investigation and incident response |
+|  Windows | Server and endpoint security |
+|  Active Directory | Identity, access and domain security |
+|  Networking | Infrastructure, traffic and network analysis |
+|  Malware | Static and behavioral analysis |
+|  ML Security | Machine-learning-assisted detection |
+|  Automation | Security workflows and response |
+|  Engineering | Building practical defensive systems |
 
 ---
 
