@@ -3,8 +3,6 @@
 <div align="center">
   <img src="./assets/profile-banner.png" alt="Zahid Ullah - Cybersecurity Analyst" width="100%">
 </div>
-
-
 <p>
 <a href="https://github.com/hckr-zahid"><img src="https://img.shields.io/badge/GitHub-hckr--zahid-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://linkedin.com/in/hckr-zahid"><img src="https://img.shields.io/badge/LinkedIn-Zahid%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,709 +12,321 @@
 
 </div>
 
+
+<div align="center">
+
+
+
+*Understand the threat. Detect the behavior. Investigate the evidence. Build the defense.*
+
+</div>
+
 ---
-<h1 align="center">SECURITY COMMAND CENTER</h1>
 
+## About Me
 
-<table>
-<tr>
-<td width="50%">
+I am a **Cybersecurity Analyst** with a B.S in Computer Science and a practical focus on security operations, threat detection, malware analysis, digital forensics, incident response, and network defense.
 
-### Mission
+My work combines cybersecurity investigation with hands-on security engineering. I develop defensive tools, analyze suspicious activity, explore detection methodologies, automate security workflows, and document technical findings through practical projects and isolated laboratory environments.
 
-Build, test and document practical cybersecurity capabilities across:
+My flagship project, **CyberGun**, is a modular malware-detection platform combining static analysis, signature-based detection, and machine-learning-assisted behavioral classification.
 
-- Threat Detection
-- SOC & Blue Team Operations
-- Digital Forensics & Incident Response
-- Network Security
-- Windows Security
-- Active Directory Security
-- Security Engineering
-- Defensive Automation
+I also work with SIEM technologies, network intrusion detection, forensic investigation tools, vulnerability assessment, Python automation, and enterprise Windows security infrastructure.
 
-</td>
-<td width="50%">
+**Professional interests:** SOC Analyst · Threat Detection Analyst · Blue Team Security · DFIR Analyst · Security Engineer
 
-### Security Mindset
+---
+
+## Core Specializations
+
+| Domain | Focus Areas | Technologies |
+|---|---|---|
+| SOC & Blue Team | Alert triage, security monitoring, threat hunting | Wazuh, Splunk, IBM QRadar, Google Chronicle |
+| Threat Detection | Detection rules, IOC analysis, behavioral indicators | YARA, Suricata, Snort, Zeek |
+| Malware Analysis | Static analysis, behavioral inspection, ML-assisted classification | Python, YARA, scikit-learn, LightGBM |
+| DFIR | Memory analysis, disk forensics, incident timelines | Volatility, Autopsy |
+| Network Security | Traffic analysis, intrusion detection, telemetry investigation | Wireshark, Zeek, Suricata |
+| Vulnerability Assessment | Service discovery, risk prioritization, system hardening | Nmap, OpenVAS, Nessus, CVSS |
+| Security Automation | Log parsing, IOC extraction, investigation utilities | Python, PowerShell, Bash, Regex |
+| Enterprise Security | Identity management, security policies, Windows infrastructure | Windows Server, Active Directory, DNS, VMware |
+| Cloud Security | Identity and access controls, cloud security fundamentals | AWS, Google Cloud |
+
+---
+
+## Featured Projects
+
+### 1. CyberGun — Modular Malware Detection & Analysis Platform
+
+**Python · PyQt5 · LightGBM · YARA · SQLite · scikit-learn**
+
+[View CyberGun Repository](https://github.com/hckr-zahid/CyberGun)
+
+CyberGun is my flagship security engineering project, designed to bring multiple malware-detection and host-monitoring capabilities together within a modular application.
+
+**Key technical areas:**
+
+- Static malware detection and signature-based analysis.
+- Machine-learning-assisted behavioral classification using benchmark datasets.
+- Modular behavioral monitoring and system activity inspection.
+- Sandbox simulation and USB monitoring modules.
+- Asynchronous communication between detection components.
+- Desktop monitoring interface with security notifications.
+- Quarantine tracking and forensic audit records.
+
+The project explores how signature-based techniques, behavioral indicators, and machine-learning models can complement one another in a defensive security workflow.
+
+**Focus:** Malware detection, defensive tooling, security automation, and security engineering.
+
+---
+
+### 2. Network Intrusion Detection & Security Monitoring
+
+**Suricata · Zeek · Kibana · Elasticsearch · Wireshark**
+
+This project focuses on network visibility, suspicious traffic detection, and security telemetry analysis in an isolated testing environment.
+
+**Investigation and engineering areas:**
+
+- Detection of port scanning and suspicious network activity.
+- Analysis of potential denial-of-service behavior and data-exfiltration indicators.
+- Development and tuning of network detection rules.
+- Collection and analysis of network telemetry.
+- Visualization of security events through dashboards.
+- Investigation of packet captures and network sessions.
+- Reduction of unnecessary alerts through rule tuning.
+
+**Focus:** Network defense, detection engineering, traffic analysis, and threat hunting.
+
+---
+
+### 3. Ransomware Incident Response & Digital Forensics
+
+**Volatility · Autopsy · NIST SP 800-61**
+
+This investigation project examines a simulated ransomware incident using structured incident-response and forensic-analysis techniques.
+
+**Investigation workflow:**
+
+1. Establish the incident scope and identify available evidence.
+2. Analyze memory artifacts and suspicious process activity.
+3. Examine disk artifacts, filesystem records, and relevant system traces.
+4. Reconstruct the sequence of events using a forensic timeline.
+5. Extract indicators of compromise and document findings.
+6. Recommend containment, remediation, and recovery measures.
+
+**Focus:** Digital forensics, evidence analysis, incident handling, and technical reporting.
+
+---
+
+### 4. Python Security Automation Toolkit
+
+**Python · Regex · VirusTotal · AbuseIPDB**
+
+This project focuses on building reusable utilities to support security investigation and SOC triage.
+
+**Technical areas:**
+
+- Parsing authentication and system logs.
+- Extracting IP addresses, domains, and file hashes.
+- Identifying suspicious indicators and processes.
+- Enriching indicators using threat-intelligence APIs.
+- Creating command-line utilities for repeatable investigations.
+- Structuring outputs to support further analysis and reporting.
+
+**Focus:** Security automation, threat intelligence, IOC analysis, and operational efficiency.
+
+---
+
+### 5. Vulnerability Assessment & System Hardening
+
+**Nmap · OpenVAS · Nessus · Linux · CVSS**
+
+This work explores vulnerability identification and practical defensive hardening in authorized test environments.
+
+**Technical areas:**
+
+- Host discovery and service enumeration.
+- Vulnerability scanning and findings validation.
+- Risk prioritization using CVSS.
+- SSH access hardening and firewall configuration.
+- Review of exposed services and unnecessary attack surface.
+- Patch management and secure configuration practices.
+- Documentation of findings and remediation recommendations.
+
+**Focus:** Vulnerability management, security assessment, and defensive system administration.
+
+---
+
+### 6. Enterprise Active Directory & VMware Security Lab
+
+**Windows Server 2019 · AD DS · DNS · Group Policy · VMware**
+
+[View Active Directory Labs](https://github.com/hckr-zahid/Active-Directory-Labs)
+
+This laboratory provides practical experience with enterprise identity infrastructure and Windows security administration.
+
+**Documented lab areas:**
+
+- Active Directory Domain Services deployment.
+- Domain controller and DNS validation.
+- Organizational unit and user management.
+- Group Policy configuration and verification.
+- Domain-joined Windows client administration.
+- Identity and access management fundamentals.
+- Virtualized network isolation and connectivity testing.
+- Technical documentation and troubleshooting.
+
+**Focus:** Enterprise infrastructure security, identity management, Windows security, and policy enforcement.
+
+---
+
+## Security Investigation Workflow
 
 ```text
-                      UNDERSTAND
-                           ↓
-                      IDENTIFY
-                           ↓
-                      DETECT
-                           ↓
-                      INVESTIGATE
-                           ↓
-                      RESPOND
-                           ↓
-                      IMPROVE
+             SECURITY TELEMETRY
+                     |
+                     v
+           DETECTION & TRIAGE
+                     |
+                     v
+          THREAT INVESTIGATION
+                     |
+                     v
+       EVIDENCE & IOC COLLECTION
+                     |
+                     v
+       IMPACT AND RISK ASSESSMENT
+                     |
+                     v
+        CONTAINMENT & REMEDIATION
+                     |
+                     v
+           REPORT & IMPROVE
 ```
 
-My focus is not only learning security concepts, but **building working environments and security tools to understand them in practice.**
-
-</td>
-</tr>
-</table>
+My approach combines technical investigation with evidence-based analysis. The objective is to understand what happened, identify relevant indicators, determine potential impact, and recommend appropriate defensive actions.
 
 ---
 
-# ABOUT ME
+## Technical Skills
 
-Cybersecurity Analyst with a B.Sc. in Computer Science and a specialized focus on defensive security, threat detection, security engineering, and digital forensics. Comfortable across the complete SOC lifecycle ranging from SIEM monitoring and detection rule engineering to memory/disk forensics and NIST-aligned incident reporting.
+### SOC, SIEM & Threat Intelligence
 
-Hands-on expertise bridges practical infrastructure labs, Windows security administration, network defense, and custom tool development. Notably, built CyberGun, a modular malware detection platform combining static signature analysis with machine learning-based behavioral detection, alongside Python-driven automation to accelerate triage workflows. Backed by solid foundational training and eight certifications spanning (ISC)2, Google, IBM, Fortinet, and Cisco/NAVTTC, with a strong drive to understand attacker tactics, uncover malicious behaviors, and engineer robust defensive solutions within remote-first teams.
+- Security monitoring and alert triage
+- Threat hunting and IOC extraction
+- SIEM investigation and event correlation
+- Threat intelligence enrichment
+- Detection rule development and tuning
+- Wazuh, Splunk, IBM QRadar, Google Chronicle, Kibana
+
+### Malware Analysis & Detection Engineering
+
+- Static and behavioral analysis
+- Signature-based detection
+- YARA rules
+- Machine-learning-assisted classification
+- Sandbox-based analysis concepts
+- Python security tooling
+
+### Digital Forensics & Incident Response
+
+- Volatile memory analysis with Volatility
+- Disk and filesystem analysis with Autopsy
+- Forensic timeline reconstruction
+- Evidence and artifact analysis
+- Incident documentation
+- NIST-aligned incident-response workflows
+
+### Network & Infrastructure Security
+
+- Wireshark, Zeek, Suricata, Snort
+- Nmap, OpenVAS, Nessus
+- Firewall policies and Linux hardening
+- Windows Server and Active Directory
+- DNS troubleshooting and Group Policy
+- VMware-based laboratory environments
+
+### Programming & Automation
+
+- Python, PyQt5, Pandas, scikit-learn
+- Bash and PowerShell
+- C++ and object-oriented programming
+- SQL, SQLite, Regex, JSON
+- Git and GitHub
+
+### Cloud Security
+
+- AWS and Google Cloud security fundamentals
+- Identity and access management concepts
+- Least-privilege access principles
+- Security logging and audit telemetry
 
 ---
 
-# SECURITY SPECIALIZATION
+## Certifications & Education
 
+### Education
 
+**Bachelor of Science in Computer Science**  
+University of Peshawar, Pakistan · 2025
 
-<table width="100%">
-  <tr>
-    <td align="center" width="20%">
-      <br>
-      <b>SOC / BLUE TEAM</b><br>
-      <sub>Monitoring &amp; Defense</sub>
-    </td>
-    <td align="center" width="20%">
-      <br>
-      <b>THREAT DETECTION</b><br>
-      <sub>Detection &amp; Analysis</sub>
-    </td>
-    <td align="center" width="20%">
-      <br>
-      <b>DFIR</b><br>
-      <sub>Investigation &amp; Response</sub>
-    </td>
-    <td align="center" width="20%">
-      <br>
-      <b>NETWORK SECURITY</b><br>
-      <sub>Traffic &amp; Infrastructure</sub>
-    </td>
-    <td align="center" width="20%">
-      <br>
-      <b>OFFENSIVE SECURITY</b><br>
-      <sub>Penetration Testing &amp; Exploitation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br>
-      <b>WINDOWS SECURITY</b><br>
-      <sub>Server &amp; Clients</sub>
-    </td>
-    <td align="center">
-      <br>
-      <b>ACTIVE DIRECTORY</b><br>
-      <sub>Identity &amp; Access</sub>
-    </td>
-    <td align="center">
-      <br>
-      <b>MALWARE ANALYSIS</b><br>
-      <sub>Suspicious Files</sub>
-    </td>
-    <td align="center">
-      <br>
-      <b>AUTOMATION</b><br>
-      <sub>Security Engineering</sub>
-    </td>
-    <td align="center">
-      <br>
-      <b>VULNERABILITY ASSESSMENT</b><br>
-      <sub>Scanning &amp; Risk Analysis</sub>
-    </td>
-  </tr>
-</table>
+### Selected Certifications & Training
 
+- Certified in Cybersecurity (CC) — ISC2
+- Certified Ethical Hacker (CEH) — Cisco / NAVTTC Pakistan
+- Google Cybersecurity Professional Certificate
+- Google Cloud Cybersecurity Certificate
+- IBM Cybersecurity Analyst Professional Certificate
+- IBM and ISC2 Cybersecurity Specialist
+- Fortinet Network Security
+- Object-Oriented Programming Specialization — University of London
 
+Additional training and credentials are listed in my professional CV.
 
-# FLAGSHIP SECURITY PROJECT
+---
 
-<div align="center">
+## Current Focus
 
-# CyberGun
+- Improving malware detection and analysis capabilities in CyberGun.
+- Developing practical network detection and monitoring workflows.
+- Expanding incident-response and forensic investigation documentation.
+- Building repeatable Python tools for security analysis.
+- Conducting authorized vulnerability assessments and hardening exercises.
+- Documenting enterprise security labs with reproducible steps and verification evidence.
 
-### Advanced Real-Time Threat Mitigation Suite
+---
 
-<a href="https://github.com/hckr-zahid/CyberGun">
-<img src="https://img.shields.io/badge/VIEW%20CYBERGUN-Repository-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+## Technical Documentation Philosophy
 
-</div>
+I believe effective cybersecurity requires more than familiarity with tools. It requires understanding how systems behave, recognizing suspicious activity, validating findings, and communicating technical conclusions clearly.
 
-CyberGun is my primary security-engineering project focused on combining multiple defensive security capabilities into a unified platform.
+My project methodology emphasizes:
+
+- Reproducible laboratory environments.
+- Evidence-based investigation.
+- Clear technical explanations.
+- Detection logic and verification.
+- Documented findings and remediation.
+- Continuous improvement through testing.
+
+All security testing is intended for authorized systems and controlled laboratory environments.
+
+---
 
 
 <div align="center">
 
-##  Detection Engine
+**SECURITY · DETECTION · INVESTIGATION · DEFENSE**
+
+*Building practical security tools. Investigating threats. Strengthening defenses.*
+
 
 <p>
-  <sub>Multi-layered malware detection, threat analysis, and security intelligence</sub>
+<a href="https://github.com/hckr-zahid"><img src="https://img.shields.io/badge/GitHub-hckr--zahid-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/hckr-zahid"><img src="https://img.shields.io/badge/LinkedIn-Zahid%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://hckr-zahid.github.io"><img src="https://img.shields.io/badge/Portfolio-Cybersecurity-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="mailto:hckr.badguy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center">Capability</th>
-      <th align="center">Purpose</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"> <b>Hash Analysis</b></td>
-      <td align="center">File identification and hash comparison</td>
-    </tr>
-    <tr>
-      <td align="center"> <b>YARA Scanning</b></td>
-      <td align="center">Rule-based malware detection</td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Byte Signatures</b></td>
-      <td align="center">Binary pattern and signature detection</td>
-    </tr>
-    <tr>
-      <td align="center"> <b>String Analysis</b></td>
-      <td align="center">Suspicious strings and embedded indicators</td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Machine Learning</b></td>
-      <td align="center">ML-assisted static malware classification</td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Behavioral Analysis</b></td>
-      <td align="center">Suspicious activity and behavior assessment</td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Network Analysis</b></td>
-      <td align="center">Network indicators and threat investigation</td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Malware Analysis</b></td>
-      <td align="center">Suspicious file inspection and analysis</td>
-    </tr>
-    <tr>
-      <td align="center"> <b>Ransomware Detection</b></td>
-      <td align="center">Identification of ransomware-related indicators and behavior</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<p>
-  <sub><b>STATIC ANALYSIS</b> · <b>BEHAVIORAL ANALYSIS</b> · <b>THREAT DETECTION</b></sub>
-</p>
-
-</div>
-
-
-
-
-<div align="center">
-
-## Defensive Response Pipeline
-
-<table>
-  <tr>
-    <td align="center">
-       <b>01 · THREAT DETECTED</b><br>
-      <sub>Security Alert Triggered</sub>
-    </td>
-  </tr>
-  <tr><td align="center">⬇️</td></tr>
-  <tr>
-    <td align="center">
-       <b>02 · EVENT COLLECTION</b><br>
-      <sub>Logs · Events · Telemetry</sub>
-    </td>
-  </tr>
-  <tr><td align="center">⬇️</td></tr>
-  <tr>
-    <td align="center">
-       <b>03 · MULTI-LAYER ANALYSIS</b><br>
-      <sub>Hash · YARA · ML · Behavior · Network</sub>
-    </td>
-  </tr>
-  <tr><td align="center">⬇️</td></tr>
-  <tr>
-    <td align="center">
-       <b>04 · THREAT ASSESSMENT</b><br>
-      <sub>Severity · Risk · Scope · Impact</sub>
-    </td>
-  </tr>
-  <tr><td align="center">⬇️</td></tr>
-  <tr>
-    <td align="center">
-       <b>05 · RESPONSE DECISION</b>
-    </td>
-  </tr>
-  <tr><td align="center">↙️　　↘️</td></tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td align="center" width="50%">
-             <b>MONITOR</b><br>
-            <sub>Continuous Observation</sub>
-          </td>
-          <td align="center" width="50%">
-             <b>RESPOND</b><br>
-            <sub>Active Containment</sub>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">⬇️</td>
-          <td align="center">⬇️</td>
-        </tr>
-        <tr>
-          <td align="center">
-             <b>Event Correlation</b><br>
-            <sub>Track New Indicators</sub>
-          </td>
-          <td align="center">
-             <b>Process Control</b><br>
-            <sub>Stop Malicious Activity</sub>
-          </td>
-        </tr>
-        <tr>
-          <td></td>
-          <td align="center">⬇️</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td align="center">
-             <b>Quarantine</b><br>
-            <sub>Isolate Files &amp; Endpoints</sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<sub><b>DETECT → COLLECT → ANALYZE → ASSESS → RESPOND → VERIFY</b></sub>
-
-</div>
-
-
-
-
-### Threat Intelligence
-
-CyberGun also incorporates threat-intelligence resources and security databases to support detection and investigation.
-
-**Project:**  
-[github.com/hckr-zahid/CyberGun](https://github.com/hckr-zahid/CyberGun)
-
----
-
-# SECURITY LAB
-
-My security lab is designed as a practical environment for understanding enterprise Windows infrastructure, identity, networking and defensive security.
-
-###  Windows Infrastructure
-
-- Windows Server 2019
-- Active Directory Domain Services
-- Domain Controller
-- Organizational Units
-- User Management
-- Security Groups
-- Group Policy
-- DNS
-- DHCP
-- File Services
-- NTFS Permissions
-- Share Permissions
-- Windows Client Administration
-
-### Network Infrastructure
-
-- VMware Virtual Networking
-- LAN Segmentation
-- NAT
-- Routing
-- DNS Infrastructure
-- DHCP Infrastructure
-- Network Monitoring
-- Traffic Analysis
-- Network Security
-
-### Defensive Security
-
-- Security Monitoring
-- Threat Detection
-- Event Investigation
-- DFIR Workflows
-- Active Directory Security
-- Windows Security
-- Network Security
-- Security Automation
-
----
-
-#  SECURITY LAB ARCHITECTURE
-
-```text
-                                               INTERNET
-                                                  │
-                                                  │
-                                           ┌──────▼──────┐
-                                           │   GATEWAY   │
-                                           │   / NAT     │
-                                           └──────┬──────┘
-                                                  │
-                                          INTERNAL SECURITY LAN
-                                                  │
-                                    ┌─────────────┼─────────────┐
-                                    │             │             │
-                                    ▼             ▼             ▼
-                             ┌────────────┐ ┌────────────┐ ┌────────────┐
-                             │   DC01     │ │ Windows 10 │ │ Windows 11 │
-                             │ Windows    │ │   Client   │ │   Client   │
-                             │ Server 2019│ │            │ │            │
-                             │ AD / DNS   │ │            │ │            │
-                             │ DHCP       │ │            │ │            │
-                             └─────┬──────┘ └────────────┘ └────────────┘
-                                   │
-                                   │
-                             ┌─────▼──────┐
-                             │   Domain   │
-                             │  Services  │
-                             └─────┬──────┘
-                                   │
-                            ┌──────┴───────┐
-                            │              │
-                            ▼              ▼
-                        Identity       Policies
-                        Management     & Security
-                            │              │
-                            └──────┬───────┘
-                                   │
-                                   ▼
-                            SECURITY MONITORING
-                                   │
-                            ┌──────┴───────┐
-                            ▼              ▼
-                       Threat Detection   DFIR
-                            │              │
-                            └──────┬───────┘
-                                   ▼
-                            DEFENSIVE RESPONSE
-```
-
----
-
-#  ACTIVE DIRECTORY SECURITY LAB
-
-My Windows security environment includes practical Active Directory administration and security work.
-
-### Domain Environment
-
-```text
-                        ZROOTS.LOCAL
-                        │
-                        ├── User Accounts
-                        │   └── Staff
-                        │       ├── Staff Users
-                        │       ├── Standard Users
-                        │       └── Test Accounts
-                        │
-                        └── Groups
-                            └── Security Groups
-                                ├── Staff
-                                ├── IT-HelpDesk
-                                └── Management
-```
-
-### Core Areas
-
-- Domain Controller Administration
-- User & Group Management
-- Organizational Units
-- Authentication
-- Authorization
-- Group Policy
-- File Permissions
-- Resource Sharing
-- Security Boundaries
-- Windows Client Domain Integration
-
----
-
-#  NETWORK SECURITY LAB
-
-The networking side of the lab focuses on understanding how systems communicate and how defensive monitoring can be applied to network infrastructure.
-
-### Areas of Practice
-
-```text
-                      NETWORK
-                         │
-                         ├── TCP/IP
-                         ├── DNS
-                         ├── DHCP
-                         ├── Routing
-                         ├── NAT
-                         ├── LAN
-                         ├── Traffic Monitoring
-                         ├── Packet Analysis
-                         └── Network Security
-```
-
-### Security Analysis
-
-- Network Traffic
-- Suspicious Connections
-- IP Analysis
-- Process / Connection Mapping
-- Packet Inspection
-- Network Indicators
-- Defensive Monitoring
-
----
-
-#  DFIR & THREAT INVESTIGATION
-
-My security work also focuses on the investigation side of cybersecurity.
-
-```text
-                                  SECURITY EVENT
-                                        │
-                                        ▼
-                                  COLLECT EVIDENCE
-                                        │
-                                        ▼
-                                  PRESERVE DATA
-                                        │
-                                        ▼
-                                  ANALYZE INDICATORS
-                                        │
-                                        ▼
-                                  IDENTIFY BEHAVIOR
-                                        │
-                                        ▼
-                                  DETERMINE IMPACT
-                                        │
-                                        ▼
-                                  RESPOND
-                                        │
-                                        ▼
-                                  DOCUMENT & IMPROVE
-```
-
-### Investigation Areas
-
-- Security Events
-- Suspicious Files
-- Process Activity
-- Network Activity
-- Indicators of Compromise
-- Windows Events
-- Threat Intelligence
-- Incident Analysis
-- Defensive Response
-
----
-
-#  SECURITY TECHNOLOGY STACK
-
-### Operating Systems
-
-<p>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-</p>
-
-###  Security
-
-<p>
-<img src="https://img.shields.io/badge/YARA-7B68EE?style=for-the-badge">
-<img src="https://img.shields.io/badge/DFIR-333333?style=for-the-badge">
-<img src="https://img.shields.io/badge/SOC-CC0000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Threat%20Detection-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Network%20Security-0066CC?style=for-the-badge">
-<img src="https://img.shields.io/badge/Malware%20Analysis-990000?style=for-the-badge">
-</p>
-
-###  Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-<img src="https://img.shields.io/badge/DNS-005A9C?style=for-the-badge">
-<img src="https://img.shields.io/badge/DHCP-005A9C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Group%20Policy-0078D4?style=for-the-badge">
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
-</p>
-
-### 💻 Development & Automation
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
----
-
-#  SECURITY ENGINEERING AREAS
-
-| Domain | Practical Focus |
-|---|---|
-|  SOC | Monitoring, analysis and defensive operations |
-|  Detection | Indicators, behavior and suspicious activity |
-|  DFIR | Investigation and incident response |
-|  Windows | Server and endpoint security |
-|  Active Directory | Identity, access and domain security |
-|  Networking | Infrastructure, traffic and network analysis |
-|  Malware | Static and behavioral analysis |
-|  ML Security | Machine-learning-assisted detection |
-|  Automation | Security workflows and response |
-|  Engineering | Building practical defensive systems |
-
----
-
-#  CURRENTLY BUILDING
-
-###  CyberGun
-
-Continuous development of an integrated threat detection and mitigation platform.
-
-###  Windows Security Lab
-
-Expanding practical Windows Server and Active Directory security capabilities.
-
-### Network Security Environment
-
-Building and testing isolated virtual networking environments for security monitoring and analysis.
-
-###  DFIR Workflows
-
-Developing practical investigation and defensive-response workflows.
-
-###  Cybersecurity Portfolio
-
-Documenting practical projects, infrastructure labs, technical work and security development.
-
----
-
-#  CONTINUOUS LEARNING
-
-```text
-                        Cybersecurity
-                             │
-                             ├── SOC Operations
-                             ├── Blue Team
-                             ├── Threat Detection
-                             ├── Digital Forensics
-                             ├── Incident Response
-                             ├── Active Directory Security
-                             ├── Network Security
-                             ├── Malware Analysis
-                             ├── Security Automation
-                             └── Security Engineering
-```
-
----
-
-#  GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hckr-zahid&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hckr-zahid&theme=dark&hide_border=true" height="170">
-
-</div>
-
----
-
-#  FEATURED WORK
-
-<div align="center">
-
-<a href="https://github.com/hckr-zahid/CyberGun">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hckr-zahid&repo=CyberGun&theme=github_dark&hide_border=true">
-</a>
-
-<a href="https://github.com/hckr-zahid/hckr-zahid.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hckr-zahid&repo=hckr-zahid.github.io&theme=github_dark&hide_border=true">
-</a>
-
-</div>
-
----
-
-#  PORTFOLIO
-
-My cybersecurity portfolio documents my practical work, projects, labs and technical development.
-
-<div align="center">
-
-<a href="https://hckr-zahid.github.io">
-<img src="https://img.shields.io/badge/OPEN%20CYBERSECURITY%20PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-</div>
-
----
-
-#  SECURITY PHILOSOPHY
-
-<div align="center">
-
-### **Learn the Technology.**
-### **Understand the Threat.**
-### **Detect the Behavior.**
-### **Investigate the Evidence.**
-### **Build the Defense.**
-
-</div>
-
-I believe cybersecurity becomes stronger when theoretical knowledge is combined with practical experimentation.
-
-My approach is to **build the environment, configure the technology, generate realistic security scenarios, observe the behavior, investigate the evidence and improve the defense.**
-
----
-
-#  CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/hckr-zahid">
-<img src="https://img.shields.io/badge/GitHub-hckr--zahid-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/hckr-zahid">
-<img src="https://img.shields.io/badge/LinkedIn-Zahid%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://hckr-zahid.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Cybersecurity-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="mailto:hckr.badguy@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-##  SECURITY • DETECTION • INVESTIGATION • DEFENSE
-
-### Built with curiosity. Tested in the lab. Focused on defense.
 
 </div>
 
