@@ -25,11 +25,11 @@
 
 ## About Me
 
-I am a **Cybersecurity Analyst** with a B.S in Computer Science and a practical focus on security operations, threat detection, malware analysis, digital forensics, incident response, and network defense.
+I am a **Cybersecurity Researcher and Engineer** with a B.S in Computer Science and a practical focus on security operations, threat detection, malware analysis, digital forensics, incident response, and network defense.
 
 My work combines cybersecurity investigation with hands-on security engineering. I develop defensive tools, analyze suspicious activity, explore detection methodologies, automate security workflows, and document technical findings through practical projects and isolated laboratory environments.
 
-My flagship project, **CyberGun**, is a modular malware-detection platform combining static analysis, signature-based detection, and machine-learning-assisted behavioral classification.
+My flagship project, **[CyberGun](https://github.com/hckr-zahid/CyberGun)**, is a modular malware-detection platform combining static analysis, signature-based detection, and machine-learning-assisted behavioral classification.
 
 I also work with SIEM technologies, network intrusion detection, forensic investigation tools, vulnerability assessment, Python automation, and enterprise Windows security infrastructure.
 
