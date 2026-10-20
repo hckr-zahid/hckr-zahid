@@ -55,11 +55,9 @@ I also work with SIEM technologies, network intrusion detection, forensic invest
 
 ## Featured Projects
 
-### 1. CyberGun — Modular Malware Detection & Analysis Platform
+### 1. [CyberGun](https://github.com/hckr-zahid/CyberGun): Modular Malware Detection & Analysis Platform
 
 **Python · PyQt5 · LightGBM · YARA · SQLite · scikit-learn**
-
-[View CyberGun Repository](https://github.com/hckr-zahid/CyberGun)
 
 CyberGun is my flagship security engineering project, designed to bring multiple malware-detection and host-monitoring capabilities together within a modular application.
 
